@@ -10,7 +10,7 @@ __Membros:__
 __Nome:__ Paulo Alexander Simões, <b>RA:</b>11084915 <br>
 __Nome:__ Rodolfo Azevedo dos Santos, <b>RA:</b> 11093514
 
-__Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Rodolfo/public/
+__Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Rodolfo/public/   (caso encontre problemas ao abrir, é necessário tentar outras vezes recarregando a página)
 
 <br>__Aplicação:__ Mustang 3D
 
