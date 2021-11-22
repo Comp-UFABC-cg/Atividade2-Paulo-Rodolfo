@@ -40,7 +40,7 @@ __Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Ro
 
 3) Seleção de cores do carro:
 - Permite a seleção de cores do carro, vide abaixo. Os vértices são coloridos a partir da cor selecionada. <br>
-![image](https://user-images.githubusercontent.com/30665585/142787052-adba5c6b-86d1-4858-a708-f5652d4f98d0.png
+![image](https://user-images.githubusercontent.com/30665585/142787067-ba6e9555-80a4-46cb-a6bb-17e920b96728.png)
 
 
 
