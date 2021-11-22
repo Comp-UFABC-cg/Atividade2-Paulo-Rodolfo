@@ -45,7 +45,7 @@ __Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Ro
 
 4) Face culling
 - Checkbox para habilitar o face culling.  <br>
-![image](https://user-images.githubusercontent.com/30665585/142786970-9a95c641-9859-4ec6-9a5e-fbd4643a136c.png)
+![image](https://user-images.githubusercontent.com/30665585/142787253-d7e35f95-3f48-4246-80fd-2d1e7a6c1b2a.png)
 
 
 
