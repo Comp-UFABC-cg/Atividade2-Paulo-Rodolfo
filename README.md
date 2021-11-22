@@ -39,7 +39,9 @@ __Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Ro
 ![image](https://user-images.githubusercontent.com/30665585/141701226-26846580-c62c-4aa2-bd80-13e9c3da758f.png)
 
 3) Seleção de cores do carro:
-- Permite a seleção de cores do carro, vide abaixo. Os vértices são coloridos a partir da cor selecionada.
+- Permite a seleção de cores do carro, vide abaixo. Os vértices são coloridos a partir da cor selecionada. <br>
+![image](https://user-images.githubusercontent.com/30665585/142787052-adba5c6b-86d1-4858-a708-f5652d4f98d0.png
+
 
 
 4) Face culling
