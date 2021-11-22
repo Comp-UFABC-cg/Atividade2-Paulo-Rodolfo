@@ -54,3 +54,5 @@ A edição do arquivo e transformação em obj foi realizada no MeshLab.
 O slider para controle de rotação é implementado a partir do ImGui. O intervalo varia de -500 a +500 radianos (intervalo contínuo, ou seja, tipo float). Ao selecionar uma velocidade positiva o carro rotaciona para a direita (sentido horário), caso contrário, rotaciona para a esquerda (sentido anti-horário).
 
 O slider para controle de triangulos também é implementado a partir do ImGui. O intervalo aceita números inteiros.
+
+O combobox criado para a alteração de cores é implentando a partir da lib ImGui. As cores foram pré definidas em um vetor de cores RGB para seleção do usuário. Foi criada uma variável de controle uniforme para acompanhar a alteração de todos os vertíces quando selecionado pelo usuário
