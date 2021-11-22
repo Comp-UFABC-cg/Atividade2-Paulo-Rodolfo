@@ -30,9 +30,8 @@ __Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Ro
 <br>__Funcionalidades:__
 
 1) Slider para controle de rotação:
-- Permite o controle da velocidade no sentido horário (velocidade positiva) e anti horário (velocidade negativa). A velocidade é medida em radianos.
-
-![image](https://user-images.githubusercontent.com/30665585/141701203-1e683108-a29b-4c94-82ca-1dcfffdc1bfb.png)
+- Permite o controle da velocidade no sentido horário (velocidade positiva) e anti horário (velocidade negativa). A velocidade é medida em radianos. <br>
+![image](https://user-images.githubusercontent.com/30665585/142787184-b83cad7e-5c3c-48eb-a8ac-f6963c8fab56.png)
 
 2) Quantidade de triangulos para renderizar a imagem: <br>
 - Permite selecionar a quantidade de triângulos da aplicação 3D.
