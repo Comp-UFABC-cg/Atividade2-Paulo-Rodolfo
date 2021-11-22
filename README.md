@@ -20,7 +20,7 @@ __Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Ro
  <li>O modelo 3D desenvolvido com a biblioteca ABCG utiliza conceitos de álgebra linear para a construção e renderização do objeto.</li>
  <li>A orientação da superfície é determinada utilizando a pipeline do OpenGL.</li>
  <li>A forma do nosso modelo é composta por n triângulos formados pelos vertíces (x,y,z) que unidos formam a imagem 3D do mustang.</li>
- <li>Face culling: Para otimizar a renderização, habilitamos o face culling através da função abcg::glEnable(GL_CULL_FACE). O Face Culling consiste em descartar todos os triângulos que não estão de frente para a câmera.</li>
+ <li>Face culling: Para otimizar a renderização, habilitamos a seleção do face culling através do checkbox. Caso habilitado, o face culling é ativado a partir da função abcg::glEnable(GL_CULL_FACE). O Face Culling consiste em descartar todos os triângulos que não estão de frente para a câmera.</li>
  <li>A orientação dos vértices é no sentido horário. Habilitado através da função abcg::glFrontFace(GL_CW)</li>
 </ul>
 
@@ -37,6 +37,13 @@ __Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Ro
 2) Quantidade de triangulos para renderizar a imagem: <br>
 - Permite selecionar a quantidade de triângulos da aplicação 3D.
 ![image](https://user-images.githubusercontent.com/30665585/141701226-26846580-c62c-4aa2-bd80-13e9c3da758f.png)
+
+3) Seleção de cores do carro:
+- Permite a seleção de cores do carro, vide abaixo. Os vértices são coloridos a partir da cor selecionada.
+
+
+4) Face culling
+- Checkbox para habilitar o face culling.
 
 
 
