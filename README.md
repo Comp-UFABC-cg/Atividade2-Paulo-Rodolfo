@@ -36,7 +36,7 @@ __Link para a aplicação:__ https://comp-ufabc-cg.github.io/Atividade2-Paulo-Ro
 
 2) Quantidade de triangulos para renderizar a imagem: <br>
 - Permite selecionar a quantidade de triângulos da aplicação 3D.
-![image](https://user-images.githubusercontent.com/30665585/141701226-26846580-c62c-4aa2-bd80-13e9c3da758f.png)
+![image](https://user-images.githubusercontent.com/30665585/142787121-5ff6bb34-c265-4a4d-8aca-833ec97ff869.png)
 
 3) Seleção de cores do carro:
 - Permite a seleção de cores do carro, vide abaixo. Os vértices são coloridos a partir da cor selecionada. <br>
